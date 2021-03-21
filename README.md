@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Make sure npm in installed in linux and windows both
+
+## In Ubuntu/Linux
+
+git clone https://github.com/bossOO7/simple_react_app.git
+cd simple_react_app
+npm install 
+npm start
+
+## In Windows
+download the repository code as zip then
+cd simple_react_app     //goto repository directory
+npm install 
+npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
